@@ -15,7 +15,7 @@ I'm a full-stack developer / data engineer with a background in mathematics.
 
 ### Work history
 
-[2018 —  now]</span> ## <span>Software Engineer</span> ## <span>VirusTotal — Google — Alphabet</span>
+[2018 —  now]</span> ## <span>Senior Software Engineer</span> ## <span>VirusTotal — Google — Alphabet</span>
 
 [2014 — 2018]</span> ## <span>Software Engineer</span> ## <span>Google — Alphabet</span>
 
@@ -25,4 +25,4 @@ I'm a full-stack developer / data engineer with a background in mathematics.
 
 [2009 — 2011]</span> ## <span>Web Developer</span> ## <span>Telefonica O2</span>
 
-Last update: early 2020
+Last update: mid 2022
