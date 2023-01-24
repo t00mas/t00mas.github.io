@@ -15,7 +15,7 @@ I'm a senior software engineer / engineering manager with a background in mathem
 
 ### Work history
 
-[2018 —  2023]</span> ## <span>Senior Software Engineer</span> ## <span>VirusTotal — Google</span>
+[2018 — 2023]</span> ## <span>Senior Software Engineer</span> ## <span>VirusTotal — Google</span>
 
 [2014 — 2018]</span> ## <span>Software Engineer</span> ## <span>Google</span>
 
