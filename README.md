@@ -1,7 +1,5 @@
 # [Tomás Pica](http://www.tomaspica.com/)
 
-Personal website, work history, and some extras.
-
 [View my LinkedIn profile](https://www.linkedin.com/in/tomaspdc/)
 
 [View my GitHub profile](https://github.com/t00mas)
