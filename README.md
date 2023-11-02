@@ -13,14 +13,18 @@ I'm a senior software engineer / engineering manager with a background in mathem
 
 ### Work history
 
-[2018 — 2023]</span> ## <span>Senior Software Engineer</span> ## <span>VirusTotal — Google</span>
+<span>[2023 - current]</span> ## <span>Lead Software Engineer</span> ## <span>Red Sift</span>
 
-[2014 — 2018]</span> ## <span>Software Engineer</span> ## <span>Google</span>
+<span>[2023 - 2023]</span> ## <span>Lead Software Engineer</span> ## <span>Consentio Platform</span>
 
-[2013 — 2014]</span> ## <span>Software Engineer</span> ## <span>RolePoint</span>
+<span>[2018 — 2023]</span> ## <span>Senior Software Engineer</span> ## <span>VirusTotal — Google</span>
 
-[2011 — 2013]</span> ## <span>Web Developer</span> ## <span>PokerStars</span>
+<span>[2014 — 2018]</span> ## <span>Software Engineer</span> ## <span>Google</span>
 
-[2009 — 2011]</span> ## <span>Web Developer</span> ## <span>Telefonica O2</span>
+<span>[2013 — 2014]</span> ## <span>Software Engineer</span> ## <span>RolePoint</span>
 
-Last update: early 2023
+<span>[2011 — 2013]</span> ## <span>Web Developer</span> ## <span>PokerStars</span>
+
+<span>[2009 — 2011]</span> ## <span>Web Developer</span> ## <span>Telefonica O2</span>
+
+Last updated: late 2023
