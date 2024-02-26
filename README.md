@@ -9,13 +9,13 @@
 
 ## About me
 
-I'm a senior software engineer / engineering manager with a background in mathematics.
+I'm a senior software engineer, and sometimes engineering manager, with a background in mathematics, data science, and cybersecurity.
 
 ### Work history
 
-<span>[2023 - current]</span> ## <span>Lead Software Engineer</span> ## <span>Red Sift</span>
+<span>[2024 - current]</span> ## <span>Senior Software Engineer</span> ## <span>Grafana Labs</span>
 
-<span>[2023 - 2023]</span> ## <span>Lead Software Engineer</span> ## <span>Consentio Platform</span>
+<span>[2023 - 2023]</span> ## <span>Engineering Manager</span> ## <span>Consentio Platform</span>
 
 <span>[2018 — 2023]</span> ## <span>Senior Software Engineer</span> ## <span>VirusTotal — Google</span>
 
@@ -27,4 +27,4 @@ I'm a senior software engineer / engineering manager with a background in mathem
 
 <span>[2009 — 2011]</span> ## <span>Web Developer</span> ## <span>Telefonica O2</span>
 
-Last updated: late 2023
+Last updated: early 2024
