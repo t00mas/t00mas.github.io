@@ -1,5 +1,3 @@
-# [Tomás Pica](http://www.tomaspica.com/)
-
 [GitHub](https://github.com/t00mas)
 
 [LinkedIn](https://www.linkedin.com/in/tomaspdc/)
