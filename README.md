@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm a senior software engineer, and sometimes engineering manager, with a background in mathematics, data science, and cybersecurity.
+I'm a senior software engineer, I play warhammer 40k and 3d print things.
 
 ### Work history
 
