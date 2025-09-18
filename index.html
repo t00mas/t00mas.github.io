@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tomaspica.com - Tomas Pica - Software Engineering | Data | OPs</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+            margin: 20px;
+            line-height: 1.4;
+        }
+        
+        pre {
+            margin: 0;
+            white-space: pre;
+        }
+        
+        a {
+            color: #66b3ff;
+            text-decoration: underline;
+        }
+        
+        a:hover {
+            color: #ff6b6b;
+        }
+        
+        .tagline,
+        .footer {
+            font-style: italic;
+        }
+        
+        .tagline {
+            color: #e0e0e0;
+            overflow: hidden;
+            white-space: nowrap;
+            animation: typing 3s steps(40, end);
+        }
+        
+        .separator {
+            color: #666666;
+        }
+        
+        .footer {
+            margin-top: 0;
+            color: #999999;
+            cursor: help;
+        }
+        
+        .work-history,
+        .job {
+            margin-top: 0;
+        }
+        
+        .interests-pre {
+            height: 1em;
+        }
+        
+        .current {
+            position: relative;
+        }
+        
+        .current::after {
+            content: "";
+            color: #66b3ff;
+            animation: dots 2s infinite;
+            display: inline-block;
+            width: 3ch;
+            text-align: left;
+        }
+        
+        .year {
+            cursor: help;
+        }
+        
+        .footer:hover::after,
+        .year:hover::after {
+            position: absolute;
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+            border: 1px solid #666666;
+            padding: 2px 4px;
+            font-size: 12px;
+            margin-left: 10px;
+            margin-top: -4px;
+            white-space: nowrap;
+        }
+        
+        .year:hover::after {
+            content: attr(data-year);
+        }
+        
+        .footer:hover::after {
+            content: "2025 September";
+        }
+
+        @keyframes dots {
+            0%, 100% { content: ""; }
+            25% { content: "."; }
+            50% { content: ".."; }
+            75% { content: "..."; }
+        }
+        
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="tagline">&gt; Software Engineering | Data | OPs</div>
+
+<div class="separator">================================================================================</div>
+
+<pre>
+<a href="https://github.com/t00mas">https://github.com/t00mas</a>
+<a href="https://www.linkedin.com/in/tomaspdc/">https://www.linkedin.com/in/tomaspdc/</a>
+</pre>
+
+<div class="separator">================================================================================</div>
+
+<div class="work-history">
+<strong>[WORK]</strong> WORK HISTORY
+<pre>
+2024 ── <span class="current"></span>       Senior Software Engineer    @ Grafana Labs         @ Spain (remote)
+2023 ── 2023      Lead Software Engineer      @ Consentio Platform   @ Spain (remote)
+2018 ── 2023      Senior Software Engineer    @ VirusTotal — Google  @ Malaga
+2014 ── 2018      Senior Software Engineer    @ Ads - Google         @ London
+2013 ── 2014      Software Engineer           @ RolePoint            @ London
+2011 ── 2013      Applications Developer TL   @ PokerStars           @ London
+2009 ── 2011      Developer                   @ Telefonica O2        @ Barcelona
+</pre>
+</div>
+
+<div class="separator">================================================================================</div>
+
+<strong>[HOBBY]</strong> INTERESTS
+
+<pre class="interests-pre">
+<div class="job">techomancy | math | warhammer 40k | 3D printing</div>
+</pre>
+
+<div class="separator">================================================================================</div>
+
+<pre>
+[INFO]  Best viewed in Netscape Navigator 4.0+
+[STATS] visitors: 1337 | last login: 2025.715
+</pre>
+
+</body>
+</html>
